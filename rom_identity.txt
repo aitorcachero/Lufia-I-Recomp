@@ -1,0 +1,8 @@
+display_name    = Lufia & The Fortress of Doom
+rom_file        = Lufia & The Fortress of Doom (ESP).sfc
+expected_crc32  = e78e1355
+expected_sha256 = f2e12db1c8553f3b8837c15127065e55b00f453264fa7bb8576b692ed667eea7
+rom_size        = 1048576
+mapping         = lorom
+region          = USA
+game_id         = snesrecomp-e78e1355
